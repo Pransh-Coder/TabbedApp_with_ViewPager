@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Edvizo Task</string>
+    <string name="tab_text_1">Common</string>
+    <string name="tab_text_2">JEE(M+A)</string>
+    <string name="tab_text_3">JEE(Main)</string>
+    <string name="action_bar_title">Report Lists</string>
+
+</resources>
